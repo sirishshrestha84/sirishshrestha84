@@ -17,14 +17,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirishshrestha84&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📈 Contribution Metrics (auto-updated)
 
 <p align="center">
